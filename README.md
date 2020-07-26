@@ -10,6 +10,6 @@
 My name is André and I'm software engineer.
 
  - 💙 In love with TypeScript
- - 🌱 Currently learning Redux
- - 😄 Also Musician
+ - 🌱 Currently learning AdonisJS
+ - 🎸 Also Musician
  - ⚡ Working from home
