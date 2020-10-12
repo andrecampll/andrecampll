@@ -8,8 +8,3 @@
 ### Hi! 👋 Welcome to my profile
 
 My name is André and I'm software engineer.
-
- - 💙 In love with TypeScript
- - 🌱 Currently learning AdonisJS
- - 🎸 Also Musician
- - ⚡ Working from home
