@@ -5,6 +5,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-7159c1?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andrevictor50@gmail.com)](mailto:andrevictor50@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-7159c1?style=flat-square&labelColor=7159c1&logo=instagram&logoColor=white&link=https://www.instagram.com/andrecampll)](https://www.instagram.com/andrecampll)
 
-### Hi! 👋 Welcome to my profile
+### Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Welcome to my profile
 
 My name is André and I'm software engineer.
