@@ -7,4 +7,6 @@
 
 ### Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Welcome to my profile
 
-My name is André and I'm software engineer.
+My name is André and I'm software engineer.<br/>
+
+![André GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=andrecampll&show_icons=true&hide_border=true&title_color=7159c1)
