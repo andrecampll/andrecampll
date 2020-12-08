@@ -9,4 +9,4 @@
 
 My name is André and I'm software engineer.<br/>
 
-![André GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=andrecampll&show_icons=true&hide_border=true&title_color=7159c1)
+![André GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=andrecampll&show_icons=true&hide_border=true&title_color=7159c1&theme=dracula)
