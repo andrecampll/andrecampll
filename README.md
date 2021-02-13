@@ -4,7 +4,7 @@ My name is André and I'm software engineer at PagSeguro.<br/>
 
 ![André GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=andrecampll&show_icons=true&hide_border=true&title_color=7159c1&theme=dracula)
 
-### Languages and frameworks that I use:
+### Languages, libraries and frameworks that I use:
 
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=7159c1)
 ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=7159c1)
