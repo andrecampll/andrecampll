@@ -17,9 +17,9 @@ My name is André and I'm software engineer at Linte.<br/>
 ![react](https://img.shields.io/badge/react-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=7159c1)
 ![React Native](https://img.shields.io/badge/react%20native-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=7159c1)
 ![redux](https://img.shields.io/badge/redux-grey?style=for-the-badge&logo=redux&logoColor=white&labelColor=7159c1)
-![strapi](https://img.shields.io/badge/strapi-grey?style=for-the-badge&logo=strapi&logoColor=white&labelColor=7159c1)
 ![graphql](https://img.shields.io/badge/graphql-grey?style=for-the-badge&logo=graphql&logoColor=white&labelColor=7159c1)
-![adonis](https://img.shields.io/badge/adonisjs-grey?style=for-the-badge&logo=adonisjs&logoColor=white&labelColor=7159c1)
+![apollo](https://img.shields.io/badge/apollo-grey?style=for-the-badge&logo=apollo-graphql&logoColor=white&labelColor=7159c1)
+<br />
 ![styled components](https://img.shields.io/badge/styled%20components-grey?style=for-the-badge&logo=styled-components&logoColor=white&labelColor=7159c1)
 ![jest](https://img.shields.io/badge/-jest-grey?style=for-the-badge&logo=jest&logoColor=white&labelColor=7159c1)
 ![react testing library](https://img.shields.io/badge/-react%20testing%20library-grey?style=for-the-badge&logo=testing-library&logoColor=white&labelColor=7159c1)
