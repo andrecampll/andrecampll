@@ -1,5 +1,5 @@
 ## 🧑🏻‍💻 Who am I
-<img src="https://camo.githubusercontent.com/f192ffd36405314e0a22dc1c4b399168ed5ca85a20926f6df130558eca2870a6/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f342f34632f547970657363726970745f6c6f676f5f323032302e737667" align="right" alt="React" width="165">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" align="right" alt="React" width="175">
 <p>
   💻 Technology passionate
 </p>
