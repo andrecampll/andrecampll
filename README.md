@@ -4,7 +4,7 @@
   💻 Technology passionate
 </p>
 <p>
-  🥷🏽 Software Engineer at Linte
+  🥷🏽 Software Engineer at White Prompt
 </p>
 <p>
   ⚡️ Always trying to make better code
