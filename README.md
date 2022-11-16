@@ -1,4 +1,4 @@
-## 🧑🏻‍💻 Who am I
+## 🧑🏻‍💻 Who am i
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" align="right" alt="React" width="175">
 <p>
   💻 Technology passionate
