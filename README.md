@@ -4,7 +4,7 @@
   💻 Technology passionate
 </p>
 <p>
-  🥷🏽 Software Engineer at White Prompt
+  🥷🏽 Software Engineer
 </p>
 <p>
   ⚡️ Always trying to make better code
