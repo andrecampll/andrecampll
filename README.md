@@ -1,29 +1,36 @@
-## 🧑🏻‍💻 Who am I
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" align="right" alt="React" width="175">
-<p>
-  💻 Technology passionate
-</p>
-<p>
-  🥷🏽 Software Engineer
-</p>
-<p>
-  ⚡️ Always trying to make better code
+# 👋 Hi, I'm André Victor
 
-## 📓 More details
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" align="right" alt="GraphQL" width="170">
-<p>
-  <p>
-  🎓 Graduating in Software Engineering
-  </p> 
-  <p>
-  🎯 "If you don’t like your destiny, don’t accept it. Instead have the courage to change it the way you want it to be." - Naruto Uzumaki
-  </p>
-</p>
+💻 Passionate about building clean and efficient software.  
+🥷 Senior Full-Stack Software Engineer | React & Node.js | AI Enthusiast
 
-<!-- ![André GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=andrecampll&show_icons=true&hide_border=true&title_color=7159c1&theme=dracula) -->
+---
 
-### How to reach me:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-E535AB?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrecampll/)](https://www.linkedin.com/in/andrecampll/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-E535AB?style=flat-square&labelColor=E535AB&logo=twitter&logoColor=white&link=https://twitter.com/andrecampll)](https://twitter.com/andrecampll)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-E535AB?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andrevictor50@gmail.com)](mailto:andrevictor50@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E535AB?style=flat-square&labelColor=E535AB&logo=instagram&logoColor=white&link=https://www.instagram.com/andrecampll)](https://www.instagram.com/andre.tsx)
+## ⚡ Technologies & Tools
+
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/) 
+[![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactnative.dev/)
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)](https://graphql.org/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![ChatGPT](https://img.shields.io/badge/-ChatGPT-00B67A?style=flat-square&logo=openai&logoColor=white)](https://chat.openai.com/)
+[![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+
+
+---
+
+## 📖 About Me
+
+🎓 Graduating in Software Engineering  
+🎯 "If you don’t like your destiny, don’t accept it. Instead, have the courage to change it the way you want it to be." – Naruto Uzumaki  
+
+---
+
+## 📬 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-E535AB?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrecampll/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:andrevictor50@gmail.com)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/andre.tsx)
