@@ -2,7 +2,11 @@
 
 💻 Passionate about building clean and efficient software.  
 🥷 Senior Full-Stack Software Engineer | React & Node.js | AI Enthusiast. <br/>
-⚽️ Building [SalveDrew.com.br](https://www.salvedrew.com.br/)
+⚽️ Building [SalveDrew.com.br](https://www.salvedrew.com.br/) - Platform for a Corinthians streamer-journalist with 100k+ audience — forum, blogs and live interactive post-match voting dynamics. <br/>
+🎥 Building [PRDLAB](https://www.prdlab.com.br/) - SaaS that ships broadcast-grade overlays for football streamers — match data, scores and graphics, ready to drop into OBS. <br/>
+💰 Building [Camanutti](https://camanutti-web.vercel.app/) - Marketing & product surface for a financial reconciliation service — clear positioning, fast load, conversion-focused funnel.
+
+🎨 Portfolio: https://andrecampll.vercel.app/
 
 ---
 
